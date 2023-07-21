@@ -1,11 +1,11 @@
 [{
-		"outboundTag": "block",
+		"outboundTag": "direct",
 		"domain": [
 			"geosite:category-ads-all"
 		]
 	},
 	{
-		"outboundTag": "direct",
+		"outboundTag": "proxy",
 		"domain": [
 			"geosite:cn"
 		]
