@@ -8,7 +8,7 @@
   },
   {
     "type": "field",
-    "outboundTag": "block",
+    "outboundTag": "direct",
     "domain": [
       "geosite:category-ads-all"
     ]
