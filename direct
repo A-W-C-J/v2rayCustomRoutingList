@@ -1,1 +1,3 @@
-geosite:category-ads-all
+geosite:category-ads-all,
+ext:iran.dat:ads,
+*.googleadservices,com
